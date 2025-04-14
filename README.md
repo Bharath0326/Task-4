@@ -1,2 +1,2 @@
 # Task-4
-Dashboard Creation using Power-Bi
+Amazon Sales Analysis Dashboard using Power-Bi
